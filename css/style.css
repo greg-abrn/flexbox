@@ -73,4 +73,10 @@ h2 {
 
 /* EXERCICE 6 */
 
+.exercice6 ul {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
 /* EXERCICE 7 */
