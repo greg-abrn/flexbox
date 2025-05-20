@@ -37,6 +37,7 @@ h2 {
 
 .exercice3 ul .pill {
   flex: 1;
+  text-align: center;
 }
 
 /* EXERCICE 4 */
