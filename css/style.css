@@ -80,3 +80,12 @@ h2 {
 }
 
 /* EXERCICE 7 */
+
+.exercice7 ul {
+  display: flex;
+  justify-content: space-around;
+}
+
+.exercice7 ul li {
+  border-radius: 45px;
+}
