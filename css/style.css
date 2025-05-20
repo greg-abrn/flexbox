@@ -44,7 +44,7 @@ h2 {
 
 .exercice4 ul {
   display: flex;
-  column-gap: 1%;
+  gap: 1%;
 }
 
 .exercice4 ul .pill {
@@ -60,6 +60,16 @@ h2 {
 }
 
 /* EXERCICE 5 */
+
+.exercice5 {
+  display: flex;
+  justify-content: space-between;
+}
+
+.exercice5 ul {
+  display: flex;
+  flex-direction: row;
+}
 
 /* EXERCICE 6 */
 
