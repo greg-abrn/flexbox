@@ -42,6 +42,15 @@ h2 {
 
 /* EXERCICE 4 */
 
+.exercice4 ul {
+  display: flex;
+  justify-content: space-between;
+}
+
+.exercice4 ul .pill {
+  text-align: center;
+}
+
 /* EXERCICE 5 */
 
 /* EXERCICE 6 */
