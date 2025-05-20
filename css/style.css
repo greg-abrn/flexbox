@@ -44,7 +44,7 @@ h2 {
 
 .exercice4 ul {
   display: flex;
-  justify-content: space-between;
+  column-gap: 1%;
 }
 
 .exercice4 ul .pill {
