@@ -51,6 +51,14 @@ h2 {
   text-align: center;
 }
 
+.exercice4 ul li:nth-child(even) {
+  flex: 3;
+}
+
+.exercice4 ul li:nth-child(odd) {
+  flex: 1;
+}
+
 /* EXERCICE 5 */
 
 /* EXERCICE 6 */
