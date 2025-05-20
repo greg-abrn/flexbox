@@ -18,13 +18,16 @@ h2 {
 }
 
 /* EXERCICE 1 */
-.exercice1 {
+.exercice1 ul {
   display: flex;
-  flex-direction: row;
-  justify-content: flex-start;
 }
 
 /* EXERCICE 2 */
+
+.exercice2 ul {
+  display: flex;
+  flex-direction: row-reverse;
+}
 
 /* EXERCICE 3 */
 
